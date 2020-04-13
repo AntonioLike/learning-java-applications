@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/Users/toddperkins/Desktop/Exercise Files/Chapter 01/.metadata/.plugins/org.eclipse.jdt.core
